@@ -1,0 +1,3 @@
+gymnasium ----> pip install gymnasium-----> import gymnasium as gym
+numpy ----->pip install numpy----->import numpy as np
+tensorflow----->pip install tensorflow----->import  tensorflow as tf
