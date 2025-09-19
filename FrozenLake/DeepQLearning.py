@@ -1,6 +1,6 @@
 import numpy as np
 
-from RoboticMovement import *
+from Environment import *
 import tensorflow as tf
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense, Input
